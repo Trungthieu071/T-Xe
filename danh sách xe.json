@@ -1,2589 +1,2922 @@
 {
 "Result":[
- {
-  "STT": "1",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78446",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Nguyễn Anh Toàn (6088138)"
- },
- {
-  "STT": "2",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77715",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Nguyễn Trần Hùng Minh (6087903)"
- },
- {
-  "STT": "3",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77993",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Châu Minh Sang (6087909)"
- },
- {
-  "STT": "4",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77497",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Nguyễn Đăng Nhật (6088117)"
- },
- {
-  "STT": "5",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78324",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Viên Ngọc Hải (6088082)"
- },
- {
-  "STT": "6",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78248",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Dương Minh Luân (6087916)"
- },
- {
-  "STT": "7",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78910",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Nguyễn Tấn Đạt (6088077)"
- },
- {
-  "STT": "8",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77897",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Lê Thanh Phú (6087694)"
- },
- {
-  "STT": "9",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78118",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Nguyễn Đạt Phú (6087848)"
- },
- {
-  "STT": "10",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77187",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Nguyễn Ngọc Tuấn (6020363)"
- },
- {
-  "STT": "11",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78540",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Châu Hồng Linh (6087924)"
- },
- {
-  "STT": "12",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77600",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Nguyễn Anh Thuần (6088154)"
- },
- {
-  "STT": "13",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77557",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Dương Thành Đạt (6088076)"
- },
- {
-  "STT": "14",
-  "Dòng xe": "VF5",
-  "Biển số": "50H73625",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Huỳnh Phương Quang (6088125)"
- },
- {
-  "STT": "15",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78591",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Nguyễn Mai Hiển Đạt (6087855)"
- },
- {
-  "STT": "16",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77817",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Nguyễn Văn Lưu (6039516)"
- },
- {
-  "STT": "17",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78551",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Nguyễn Văn Tú (6088140)"
- },
- {
-  "STT": "18",
-  "Dòng xe": "VF5",
-  "Biển số": "50H73833",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Huỳnh Mai Anh Tuấn (6087680)"
- },
- {
-  "STT": "19",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77801",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Lê Mạnh Cường (6087367)"
- },
- {
-  "STT": "20",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77308",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Phan Nhật Huynh (6088094)"
- },
- {
-  "STT": "21",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78587",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Đỗ Cao Đạt (6087840)"
- },
- {
-  "STT": "22",
-  "Dòng xe": "VF5",
-  "Biển số": "50H74667",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Phạm Tân Chiến (6087343)"
- },
- {
-  "STT": "23",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78104",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Dương Đức Bảo (6087371)"
- },
- {
-  "STT": "24",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78561",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Trần Phú (6087851)"
- },
- {
-  "STT": "25",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77875",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Nguyễn Văn Thạch (6087873)"
- },
- {
-  "STT": "26",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78117",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Nguyễn Ngọc Hiếu (6087913)"
- },
- {
-  "STT": "27",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77446",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Nguyễn Minh Tuấn (6053718)"
- },
- {
-  "STT": "28",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77487",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Huỳnh Công Thành (6034464)"
- },
- {
-  "STT": "29",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77549",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Trịnh Xuân Sơn (6087917)"
- },
- {
-  "STT": "30",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78381",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Nguyễn Tấn Đạt (6080767)"
- },
- {
-  "STT": "31",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78047",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Đinh Xuân Duy (6088074)"
- },
- {
-  "STT": "32",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77640",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Nguyễn Thanh Kiệt (6088095)"
- },
- {
-  "STT": "33",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78804",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Nguyễn Lập Kiểu (6088097)"
- },
- {
-  "STT": "34",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78002",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3"
- },
- {
-  "STT": "35",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77616",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Nguyễn Tiến Xuân (6087351)"
- },
- {
-  "STT": "36",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78358",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Dương Minh Đức (6087857)"
- },
- {
-  "STT": "37",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78465",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2"
- },
- {
-  "STT": "38",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78081",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Phạm Bá Lê Duy (6033581)"
- },
- {
-  "STT": "39",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77035",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1"
- },
- {
-  "STT": "40",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78797",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1"
- },
- {
-  "STT": "41",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78203",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Lê Văn Tư (6087849)"
- },
- {
-  "STT": "42",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77678",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Phan Thanh Tú (6087374)"
- },
- {
-  "STT": "43",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78806",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1"
- },
- {
-  "STT": "44",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78126",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Nguyễn Phước Huy (6087326)"
- },
- {
-  "STT": "45",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78823",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Nguyễn Tấn Trung (6087340)"
- },
- {
-  "STT": "46",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77670",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Trần Đăng Mai (6087350)"
- },
- {
-  "STT": "47",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78970",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Nguyễn Thành Tấn Khang (6088099)"
- },
- {
-  "STT": "48",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77314",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2"
- },
- {
-  "STT": "49",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77856",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2"
- },
- {
-  "STT": "50",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77511",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Ngô Anh Tuấn (6087373)"
- },
- {
-  "STT": "51",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77434",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Nguyễn Văn Đức (6087080)"
- },
- {
-  "STT": "52",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78649",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Nguyễn Văn Danh (6088068)"
- },
- {
-  "STT": "53",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77094",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Nguyễn Vũ Phương (6087687)"
- },
- {
-  "STT": "54",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77995",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Trần Văn Phúc (6089084)"
- },
- {
-  "STT": "55",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78280",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Lê Quốc Cường (6089006)"
- },
- {
-  "STT": "56",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77213",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Nguyễn Vũ Tuấn Anh (6088997)"
- },
- {
-  "STT": "57",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78494",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Trương Đình Bắc (6088998)"
- },
- {
-  "STT": "58",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78618",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Đoàn Nhã Luân (6089064)"
- },
- {
-  "STT": "59",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78819",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Nguyễn Phương Đạt (6089009)"
- },
- {
-  "STT": "60",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78321",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2"
- },
- {
-  "STT": "61",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77354",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Lê Văn Bảo Lộc (6089058)"
- },
- {
-  "STT": "62",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78833",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Nguyễn Tấn Thành (6088147)"
- },
- {
-  "STT": "63",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77671",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Phùng Nhật Tú (6087319)"
- },
- {
-  "STT": "64",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77561",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Lâm Kiến Dũng (6087382)"
- },
- {
-  "STT": "65",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77280",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Nguyễn Viết Lực (6087300)"
- },
- {
-  "STT": "66",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78633",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Ngô Anh Dũng (6087379)"
- },
- {
-  "STT": "67",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77436",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Hoàng Ngọc Hiệp (6087342)"
- },
- {
-  "STT": "68",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78883",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Trần Trung Hiếu (6088087)"
- },
- {
-  "STT": "69",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77808",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Trần Minh Quân (6087307)"
- },
- {
-  "STT": "70",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77951",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Trần Xuân Dậu (6068694)"
- },
- {
-  "STT": "71",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77608",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3"
- },
- {
-  "STT": "72",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78320",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Đỗ Thành Nguyên (6087662)"
- },
- {
-  "STT": "73",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78572",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Nguyễn Chí Nguyện (6088116)"
- },
- {
-  "STT": "74",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78007",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Vũ Đình Chiêu (6087612)"
- },
- {
-  "STT": "75",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78217",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Cao Văn Lý (6087627)"
- },
- {
-  "STT": "76",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77304",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Lâm Thiện Hải (6087084)"
- },
- {
-  "STT": "77",
-  "Dòng xe": "VF5",
-  "Biển số": "50H74557",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Đinh Viết Hữu (6089040)"
- },
- {
-  "STT": "78",
-  "Dòng xe": "VF5",
-  "Biển số": "50H74685",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Nguyễn Thành Luân (6089065)"
- },
- {
-  "STT": "79",
-  "Dòng xe": "VF5",
-  "Biển số": "50H73685",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4"
- },
- {
-  "STT": "80",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77932",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Huỳnh Thanh Quý (6089090)"
- },
- {
-  "STT": "81",
-  "Dòng xe": "VF5",
-  "Biển số": "50H74713",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Hà Nhật Hoàng Khanh (6089046)"
- },
- {
-  "STT": "82",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77807",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4"
- },
- {
-  "STT": "83",
-  "Dòng xe": "VF5",
-  "Biển số": "50H73902",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Huỳnh Thên (6089113)"
- },
- {
-  "STT": "84",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77426",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3"
- },
- {
-  "STT": "85",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78377",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Nguyễn Ngọc Thanh (6053684)"
- },
- {
-  "STT": "86",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77782",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4"
- },
- {
-  "STT": "87",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78876",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Phạm Nhật Phong (6089080)"
- },
- {
-  "STT": "88",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78650",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Đinh Thế Hùng (6089037)"
- },
- {
-  "STT": "89",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77290",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4"
- },
- {
-  "STT": "90",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78656",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Vũ Văn Tiên (6005469)"
- },
- {
-  "STT": "91",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77540",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4"
- },
- {
-  "STT": "92",
-  "Dòng xe": "VF5",
-  "Biển số": "50H73956",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Nguyễn Đức Hiếu (6089031)"
- },
- {
-  "STT": "93",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78383",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4"
- },
- {
-  "STT": "94",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78840",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4"
- },
- {
-  "STT": "95",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78326",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4"
- },
- {
-  "STT": "96",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78234",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4"
- },
- {
-  "STT": "97",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78416",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2"
- },
- {
-  "STT": "98",
-  "Dòng xe": "VF5",
-  "Biển số": "50H78624",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Phạm Văn Tâm (6088412)"
- },
- {
-  "STT": "99",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77836",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4"
- },
- {
-  "STT": "100",
-  "Dòng xe": "VF5",
-  "Biển số": "50H77973",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Nguyễn Thành Phước (6089086)"
- },
- {
-  "STT": "101",
-  "Dòng xe": "VF5",
-  "Biển số": "50H74937",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4"
- },
- {
-  "STT": "102",
-  "Dòng xe": "VF5",
-  "Biển số": "50H74065",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Huỳnh Văn Huyên (6065476)"
- },
- {
-  "STT": "103",
-  "Dòng xe": "VF5",
-  "Biển số": "50H74726",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Lê Quang Tiến (6077399)"
- },
- {
-  "STT": "104",
-  "Dòng xe": "VF5",
-  "Biển số": "50H73600",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Nguyễn Văn Tài (6089100)"
- },
- {
-  "STT": "105",
-  "Dòng xe": "VF5",
-  "Biển số": "50H74032",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Trần Ngọc Nam (6089068)"
- },
- {
-  "STT": "106",
-  "Dòng xe": "VF5",
-  "Biển số": "50H74982",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Phạm Văn Thuận (6089120)"
- },
- {
-  "STT": "107",
-  "Dòng xe": "VF5",
-  "Biển số": "50H74151",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Ngô Tuấn Thành (6089112)"
- },
- {
-  "STT": "108",
-  "Dòng xe": "VF5",
-  "Biển số": "50H74642",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4"
- },
- {
-  "STT": "109",
-  "Dòng xe": "VF5",
-  "Biển số": "50H74431",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Trần Hoàng Tâm (6089102)"
- },
- {
-  "STT": "110",
-  "Dòng xe": "VF5",
-  "Biển số": "50H73728",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Hồ Thanh Sang (6089092)"
- },
- {
-  "STT": "111",
-  "Dòng xe": "VF5",
-  "Biển số": "50H73887",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4"
- },
- {
-  "STT": "112",
-  "Dòng xe": "VF5",
-  "Biển số": "50H74156",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4"
- },
- {
-  "STT": "113",
-  "Dòng xe": "VF5",
-  "Biển số": "50H73693",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4"
- },
- {
-  "STT": "114",
-  "Dòng xe": "VF5",
-  "Biển số": "50H74554",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Nguyễn Duy Luận (6089066)"
- },
- {
-  "STT": "115",
-  "Dòng xe": "VF5",
-  "Biển số": "50H74850",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Văn Thành Công (6089004)"
- },
- {
-  "STT": "116",
-  "Dòng xe": "VF5",
-  "Biển số": "50H74718",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Cao Phan Minh Nam (6089070)"
- },
- {
-  "STT": "117",
-  "Dòng xe": "VF5",
-  "Biển số": "50H74893",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4"
- },
- {
-  "STT": "118",
-  "Dòng xe": "VF5",
-  "Biển số": "50H73754",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Phan Như Bình (6087683)"
- },
- {
-  "STT": "119",
-  "Dòng xe": "VF5",
-  "Biển số": "50H73701",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4"
- },
- {
-  "STT": "120",
-  "Dòng xe": "VF5",
-  "Biển số": "50H74863",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4"
- },
- {
-  "STT": "121",
-  "Dòng xe": "VF5",
-  "Biển số": "50H74493",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Nguyễn Minh Thái Em (6087902)"
- },
- {
-  "STT": "122",
-  "Dòng xe": "VF5",
-  "Biển số": "50H74585",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Nguyễn Đức Hải (6089022)"
- },
- {
-  "STT": "123",
-  "Dòng xe": "VF5",
-  "Biển số": "50H74710",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Nguyễn Văn Sơn (6089099)"
- },
- {
-  "STT": "124",
-  "Dòng xe": "VF5",
-  "Biển số": "50H74651",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Từ Huy (6089043)"
- },
- {
-  "STT": "125",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70749",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Lê Viết Hiếu (6084726)"
- },
- {
-  "STT": "126",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H66216",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Nguyễn Văn Tuấn (6083985)"
- },
- {
-  "STT": "127",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H69143",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Lê Văn Không (6040740)"
- },
- {
-  "STT": "128",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70629",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Nguyễn Đức Thắng (6084774)"
- },
- {
-  "STT": "129",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H69865",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Nguyễn Văn Lành (6087111)"
- },
- {
-  "STT": "130",
-  "Dòng xe": "VF5",
-  "Biển số": "50H73723",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Huỳnh Quốc Duy (6087682)"
- },
- {
-  "STT": "131",
-  "Dòng xe": "VF5",
-  "Biển số": "50H66262",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Hà Quang Định (6087376)"
- },
- {
-  "STT": "132",
-  "Dòng xe": "VF5",
-  "Biển số": "50H74824",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4"
- },
- {
-  "STT": "133",
-  "Dòng xe": "VF5",
-  "Biển số": "50H73734",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Nguyễn Thị Thanh Xuân (6087685)"
- },
- {
-  "STT": "134",
-  "Dòng xe": "VF5",
-  "Biển số": "50H69481",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1"
- },
- {
-  "STT": "135",
-  "Dòng xe": "VF5",
-  "Biển số": "50H69956",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Trần Như Hoàng Long (6087314)"
- },
- {
-  "STT": "136",
-  "Dòng xe": "VF5",
-  "Biển số": "50H69761",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Phan Tuấn Anh (6085653)"
- },
- {
-  "STT": "137",
-  "Dòng xe": "VF5",
-  "Biển số": "50H70391",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Đoàn Văn Lộc (6085684)"
- },
- {
-  "STT": "138",
-  "Dòng xe": "VF5",
-  "Biển số": "50H69241",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Trần Ngọc Khang (6087702)"
- },
- {
-  "STT": "139",
-  "Dòng xe": "VF5",
-  "Biển số": "50H70971",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Lê Đức Thiện (6087639)"
- },
- {
-  "STT": "140",
-  "Dòng xe": "VF5",
-  "Biển số": "50H73545",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Lưu Văn Trường (6087360)"
- },
- {
-  "STT": "141",
-  "Dòng xe": "VF5",
-  "Biển số": "50H69742",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Đặng Tuấn Anh (6085652)"
- },
- {
-  "STT": "142",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H73543",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Phạm Hùng Cường (6084768)"
- },
- {
-  "STT": "143",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H74931",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Nguyễn Văn Vinh (6085043)"
- },
- {
-  "STT": "144",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H74574",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Nguyễn Văn Hải (6085082)"
- },
- {
-  "STT": "145",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H74767",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Nguyễn Văn Ý (6085093)"
- },
- {
-  "STT": "146",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70334",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Trương Hoàng Long (6084762)"
- },
- {
-  "STT": "147",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70245",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1"
- },
- {
-  "STT": "148",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H74552",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Nguyễn Ngọc Huy (6087359)"
- },
- {
-  "STT": "149",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H74673",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Huỳnh Minh Khoa (6089050)"
- },
- {
-  "STT": "150",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H73756",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Châu Văn Thuận (6085148)"
- },
- {
-  "STT": "151",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H69175",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Lâm Văn Cường (6084718)"
- },
- {
-  "STT": "152",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H69393",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Nguyễn Ngọc Trung (6085683)"
- },
- {
-  "STT": "153",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70554",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Phan Vĩnh Hạ (6084772)"
- },
- {
-  "STT": "154",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70408",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Nguyễn Văn Tuấn (6084771)"
- },
- {
-  "STT": "155",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70315",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Nguyễn Ngọc Bảo (6084755)"
- },
- {
-  "STT": "156",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H66148",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1"
- },
- {
-  "STT": "157",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70658",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Nguyễn Duy Khanh (6084776)"
- },
- {
-  "STT": "158",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H69692",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Phan Tấn Sang (6084735)"
- },
- {
-  "STT": "159",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H69750",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Đỗ Trọng Nghĩa (6085120)"
- },
- {
-  "STT": "160",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70960",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Võ Quang Duy (6085152)"
- },
- {
-  "STT": "161",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H73847",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1"
- },
- {
-  "STT": "162",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H74987",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Phạm Trường An (6085173)"
- },
- {
-  "STT": "163",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H74214",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Nguyễn Văn Cường (6085076)"
- },
- {
-  "STT": "164",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70625",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Ngô Minh Hiếu (6085176)"
- },
- {
-  "STT": "165",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70747",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Nguyễn Đình Thành (6085057)"
- },
- {
-  "STT": "166",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H74491",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Thái Văn Sơn (6085060)"
- },
- {
-  "STT": "167",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70613",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Cao Văn Thống (6085071)"
- },
- {
-  "STT": "168",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70801",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Phạm Phương Quang (6085119)"
- },
- {
-  "STT": "169",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70992",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Nguyễn Thiện Quý (6084784)"
- },
- {
-  "STT": "170",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70617",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Lê Hoàng Nhân (6084773)"
- },
- {
-  "STT": "171",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H69547",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Lê Mạnh An (6084725)"
- },
- {
-  "STT": "172",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H69919",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Lê Thanh Giang (6085663)"
- },
- {
-  "STT": "173",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H69614",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Nguyễn Đỗ Thành Hưng (6085442)"
- },
- {
-  "STT": "174",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H73622",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Diêu Cam Hùng (6085088)"
- },
- {
-  "STT": "175",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H74758",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Vũ Đức Hải (6085051)"
- },
- {
-  "STT": "176",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70852",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Lê Nguyễn Ngọc Khanh (6001557)"
- },
- {
-  "STT": "177",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70765",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Phan Pha Sung (6085064)"
- },
- {
-  "STT": "178",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70404",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Hoàng Mạnh Cường (6084766)"
- },
- {
-  "STT": "179",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70684",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Hà Đồng Tuyến (6085096)"
- },
- {
-  "STT": "180",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H73565",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Trần Hoài Vương (6085080)"
- },
- {
-  "STT": "181",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70947",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Nguyễn Huy Hoàng (6085118)"
- },
- {
-  "STT": "182",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70806",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Nguyễn Duy Đal (6085174)"
- },
- {
-  "STT": "183",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70816",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Phạm Trung Hiếu (6087090)"
- },
- {
-  "STT": "184",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70772",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Hoa Thanh Thuận (6085169)"
- },
- {
-  "STT": "185",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70324",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Nguyễn Đắc Thưởng (6085632)"
- },
- {
-  "STT": "186",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H69173",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Trần Thanh Ngọc (6085085)"
- },
- {
-  "STT": "187",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70272",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Phí Minh Việt (6085036)"
- },
- {
-  "STT": "188",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H69505",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Hoàng Trung Vương (6085033)"
- },
- {
-  "STT": "189",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H69880",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Nguyễn Tuấn Anh (6085421)"
- },
- {
-  "STT": "190",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70495",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Nguyễn Thanh Bình (6085141)"
- },
- {
-  "STT": "191",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70535",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1"
- },
- {
-  "STT": "192",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H66936",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Nguyễn Nguyên Vũ (6087168)"
- },
- {
-  "STT": "193",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70034",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Võ Văn Cảnh (6085074)"
- },
- {
-  "STT": "194",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70959",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Lê Cảnh Thắng (6085068)"
- },
- {
-  "STT": "195",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70876",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Nguyễn Thanh Toàn (6085150)"
- },
- {
-  "STT": "196",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70571",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Nguyễn Phú Hoàng Thành (6085129)"
- },
- {
-  "STT": "197",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70848",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Lê Minh Tâm (6084760)"
- },
- {
-  "STT": "198",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70719",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Lê Tấn Mạnh (6085089)"
- },
- {
-  "STT": "199",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70758",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Lê Quốc Trình (6085081)"
- },
- {
-  "STT": "200",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70884",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Trần Lê Anh Khoa (6085125)"
- },
- {
-  "STT": "201",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70021",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Lê Hoàng Kha (6085153)"
- },
- {
-  "STT": "202",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H74483",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Nguyễn Thanh Hoài (6054653)"
- },
- {
-  "STT": "203",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H69794",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Nguyễn Đình Tân (6085040)"
- },
- {
-  "STT": "204",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H66203",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Đỗ Hữu Duy Phúc (6060696)"
- },
- {
-  "STT": "205",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70720",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Nguyễn Trường Sơn (6085122)"
- },
- {
-  "STT": "206",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70955",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Bùi Văn Chinh (6085056)"
- },
- {
-  "STT": "207",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70781",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Đinh Giang Nghĩa (6085037)"
- },
- {
-  "STT": "208",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70910",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Vũ Văn Hải (6085052)"
- },
- {
-  "STT": "209",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70757",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Lê Hữu Hùng (6085058)"
- },
- {
-  "STT": "210",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70918",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Chu Văn An (6085097)"
- },
- {
-  "STT": "211",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H70652",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Hồ Quốc Việt (6085157)"
- },
- {
-  "STT": "212",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H66226",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Lê Văn Nam (6087336)"
- },
- {
-  "STT": "213",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H66904",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Nguyễn Hồng Ngọc (6087304)"
- },
- {
-  "STT": "214",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H69131",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Cao Minh Nhật (6085069)"
- },
- {
-  "STT": "215",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H62829",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3"
- },
- {
-  "STT": "216",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H63326",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Phạm Văn Tuấn (6088143)"
- },
- {
-  "STT": "217",
-  "Dòng xe": "VF5",
-  "Biển số": "50H53011",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Hoàng Trọng Vũ (6087166)"
- },
- {
-  "STT": "218",
-  "Dòng xe": "VF5",
-  "Biển số": "50H47177",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Lê Nhựt Tân (6087143)"
- },
- {
-  "STT": "219",
-  "Dòng xe": "VF5",
-  "Biển số": "50H46514",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Nguyễn Thế Hào (6087087)"
- },
- {
-  "STT": "220",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52539",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Nông Công Khuyến (6085450)"
- },
- {
-  "STT": "221",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52325",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Châu Văn Nghĩa (6087118)"
- },
- {
-  "STT": "222",
-  "Dòng xe": "VF5",
-  "Biển số": "50H47110",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Phùng Thế Hào (6087086)"
- },
- {
-  "STT": "223",
-  "Dòng xe": "VF5",
-  "Biển số": "50H46816",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Trần Thanh Bình (6088062)"
- },
- {
-  "STT": "224",
-  "Dòng xe": "VF5",
-  "Biển số": "50H46263",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Hoàng Nhật Huy (6087100)"
- },
- {
-  "STT": "225",
-  "Dòng xe": "VF5",
-  "Biển số": "50H53452",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Nguyễn Tuấn Sang (6085666)"
- },
- {
-  "STT": "226",
-  "Dòng xe": "VF5",
-  "Biển số": "50H51883",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Nguyễn Đình Quân (6085636)"
- },
- {
-  "STT": "227",
-  "Dòng xe": "VF5",
-  "Biển số": "50H53248",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Nguyễn Hồng Cường (6085639)"
- },
- {
-  "STT": "228",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52489",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Ngô Ngọc Tuấn Khanh (6085694)"
- },
- {
-  "STT": "229",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H66195",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Đinh Như Quang (6087858)"
- },
- {
-  "STT": "230",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H65892",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Thái Hoàng Thịnh (6087861)"
- },
- {
-  "STT": "231",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H62815",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Võ Tấn Khoa (6087884)"
- },
- {
-  "STT": "232",
-  "Dòng xe": "VF5",
-  "Biển số": "50H47122",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Nguyễn Xuân Vũ (6085494)"
- },
- {
-  "STT": "233",
-  "Dòng xe": "VF5",
-  "Biển số": "50H47118",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2"
- },
- {
-  "STT": "234",
-  "Dòng xe": "VF5",
-  "Biển số": "50H46592",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Đinh Thị Mỹ Hồng (6087346)"
- },
- {
-  "STT": "235",
-  "Dòng xe": "VF5",
-  "Biển số": "50H47037",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Nguyễn Quốc Nghĩa (6085458)"
- },
- {
-  "STT": "236",
-  "Dòng xe": "VF5",
-  "Biển số": "50H46986",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Mai Văn Phước (6085708)"
- },
- {
-  "STT": "237",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52251",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Thân Văn Kha (6085447)"
- },
- {
-  "STT": "238",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52118",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Trần Mộng Duy (6087078)"
- },
- {
-  "STT": "239",
-  "Dòng xe": "VF5",
-  "Biển số": "50H51892",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2"
- },
- {
-  "STT": "240",
-  "Dòng xe": "VF5",
-  "Biển số": "50H53341",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Nguyễn Phi Hùng (6085658)"
- },
- {
-  "STT": "241",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52787",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Nguyễn Huỳnh Đô Anh (6087063)"
- },
- {
-  "STT": "242",
-  "Dòng xe": "VF5",
-  "Biển số": "50H53093",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Phạm Văn Văn (6087165)"
- },
- {
-  "STT": "243",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52769",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Nguyễn Trọng Tùng (6087155)"
- },
- {
-  "STT": "244",
-  "Dòng xe": "VF5",
-  "Biển số": "50H51603",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Lâm Quốc Nam (6085457)"
- },
- {
-  "STT": "245",
-  "Dòng xe": "VF5",
-  "Biển số": "50H46767",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Phan Văn Phú Quý (6085704)"
- },
- {
-  "STT": "246",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52278",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Lý Chấn Phước (6085463)"
- },
- {
-  "STT": "247",
-  "Dòng xe": "VF5",
-  "Biển số": "50H51604",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Nguyễn Thanh Quang (6085466)"
- },
- {
-  "STT": "248",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52883",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2"
- },
- {
-  "STT": "249",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52375",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Nguyễn Văn Khoái (6087109)"
- },
- {
-  "STT": "250",
-  "Dòng xe": "VF5",
-  "Biển số": "50H47078",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Nguyễn Mộng Ngọc Hưng (6085443)"
- },
- {
-  "STT": "251",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52524",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Đinh Quang Tuân (6085035)"
- },
- {
-  "STT": "252",
-  "Dòng xe": "VF5",
-  "Biển số": "50H47023",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Trương Minh Hiếu (6085669)"
- },
- {
-  "STT": "253",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52295",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Phạm Trường Giang (6087349)"
- },
- {
-  "STT": "254",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H61920",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Nguyễn Văn Khôi (6013691)"
- },
- {
-  "STT": "255",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H63110",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Nguyễn Văn Thủy (6085177)"
- },
- {
-  "STT": "256",
-  "Dòng xe": "VFE34",
-  "Biển số": "50H62641",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Huỳnh Tấn Lộc (6072200)"
- },
- {
-  "STT": "257",
-  "Dòng xe": "VF5",
-  "Biển số": "50H53010",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Nguyễn Trọng Tôn (6085650)"
- },
- {
-  "STT": "258",
-  "Dòng xe": "VF5",
-  "Biển số": "50H53458",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2"
- },
- {
-  "STT": "259",
-  "Dòng xe": "VF5",
-  "Biển số": "50H53472",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Hà Quốc Tuấn (6085486)"
- },
- {
-  "STT": "260",
-  "Dòng xe": "VF5",
-  "Biển số": "50H47154",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3"
- },
- {
-  "STT": "261",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52667",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Phạm Trương Chí Hiển (6085661)"
- },
- {
-  "STT": "262",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52598",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2"
- },
- {
-  "STT": "263",
-  "Dòng xe": "VF5",
-  "Biển số": "50H46289",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Đinh Xuân Hưng (6089038)"
- },
- {
-  "STT": "264",
-  "Dòng xe": "VF5",
-  "Biển số": "50H51852",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Nguyễn Thành Thịnh (6085682)"
- },
- {
-  "STT": "265",
-  "Dòng xe": "VF5",
-  "Biển số": "50H51901",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Nguyễn Thành Bảo (6087065)"
- },
- {
-  "STT": "266",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52495",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Ngô Lê Đình Khải (6087104)"
- },
- {
-  "STT": "267",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52720",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Nguyễn Anh Đức (6085644)"
- },
- {
-  "STT": "268",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52637",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Lê Tuấn Khải (6087105)"
- },
- {
-  "STT": "269",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52680",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Đinh Đào Ngọc Vũ Anh (6087062)"
- },
- {
-  "STT": "270",
-  "Dòng xe": "VF5",
-  "Biển số": "50H51612",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Nguyễn Anh Tuấn (6085487)"
- },
- {
-  "STT": "271",
-  "Dòng xe": "VF5",
-  "Biển số": "50H51897",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Nguyễn Mạnh Khang (6085690)"
- },
- {
-  "STT": "272",
-  "Dòng xe": "VF5",
-  "Biển số": "50H53184",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Giáp Thanh Bình (6085664)"
- },
- {
-  "STT": "273",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52461",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Nguyễn Văn Tuấn Kiệt (6087102)"
- },
- {
-  "STT": "274",
-  "Dòng xe": "VF5",
-  "Biển số": "50H47165",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2"
- },
- {
-  "STT": "275",
-  "Dòng xe": "VF5",
-  "Biển số": "50H51785",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Đinh Anh Tuấn (6087152)"
- },
- {
-  "STT": "276",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52315",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Nguyễn Văn Hồng (6085063)"
- },
- {
-  "STT": "277",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52711",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Nguyễn Phú Bình (6085422)"
- },
- {
-  "STT": "278",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52200",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Nguyễn Thanh Toàn (6087148)"
- },
- {
-  "STT": "279",
-  "Dòng xe": "VF5",
-  "Biển số": "50H46371",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Phan Thị Thu Hà (6087083)"
- },
- {
-  "STT": "280",
-  "Dòng xe": "VF5",
-  "Biển số": "50H53398",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Vũ Minh Bình (6085633)"
- },
- {
-  "STT": "281",
-  "Dòng xe": "VF5",
-  "Biển số": "50H51882",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Bùi Thanh Minh (6085647)"
- },
- {
-  "STT": "282",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52584",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Phạm Khắc Kim (6087103)"
- },
- {
-  "STT": "283",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52128",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Nguyễn Đức Lợi (6085670)"
- },
- {
-  "STT": "284",
-  "Dòng xe": "VF5",
-  "Biển số": "50H53025",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Lê Văn Dương (6085432)"
- },
- {
-  "STT": "285",
-  "Dòng xe": "VF5",
-  "Biển số": "50H53469",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Tạ Ngọc Hà (6085034)"
- },
- {
-  "STT": "286",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52376",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Nguyễn Bá Thưởng (6065590)"
- },
- {
-  "STT": "287",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52575",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Mai Huy Thìn (6089116)"
- },
- {
-  "STT": "288",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52500",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Đỗ Huỳnh Anh Khôi (6085449)"
- },
- {
-  "STT": "289",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52171",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Nguyễn Thanh Tiến (6087320)"
- },
- {
-  "STT": "290",
-  "Dòng xe": "VF5",
-  "Biển số": "50H53306",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4"
- },
- {
-  "STT": "291",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52476",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Hà Bảo Huy (6087637)"
- },
- {
-  "STT": "292",
-  "Dòng xe": "VF5",
-  "Biển số": "50H56678",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Đoàn Trung Hiếu (6085438)"
- },
- {
-  "STT": "293",
-  "Dòng xe": "VF5",
-  "Biển số": "50H53247",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Nguyễn Châu Duy Phong (6087128)"
- },
- {
-  "STT": "294",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52253",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Nguyễn Nhật Quang (6087132)"
- },
- {
-  "STT": "295",
-  "Dòng xe": "VF5",
-  "Biển số": "50H51756",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Nguyễn Hữu Tài (6087141)"
- },
- {
-  "STT": "296",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52778",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Phạm Đức Cường (6087070)"
- },
- {
-  "STT": "297",
-  "Dòng xe": "VF5",
-  "Biển số": "50H53379",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Trần Chánh Tây (6087144)"
- },
- {
-  "STT": "298",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52881",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Trịnh Minh Dũng (6087077)"
- },
- {
-  "STT": "299",
-  "Dòng xe": "VF5",
-  "Biển số": "50H51961",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Nguyễn Đan Trường (6087164)"
- },
- {
-  "STT": "300",
-  "Dòng xe": "VF5",
-  "Biển số": "50H53401",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3"
- },
- {
-  "STT": "301",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52570",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Lê Mậu Trí (6087624)"
- },
- {
-  "STT": "302",
-  "Dòng xe": "VF5",
-  "Biển số": "50H57390",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Châu Hồng Vũ (6087167)"
- },
- {
-  "STT": "303",
-  "Dòng xe": "VF5",
-  "Biển số": "50H53462",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Nguyễn Văn Quý (6087695)"
- },
- {
-  "STT": "304",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52648",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Huỳnh Thanh Hội (6087096)"
- },
- {
-  "STT": "305",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52603",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Dương Văn Hòa (6087093)"
- },
- {
-  "STT": "306",
-  "Dòng xe": "VF5",
-  "Biển số": "50H53068",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Vũ Văn Kiên (6072844)"
- },
- {
-  "STT": "307",
-  "Dòng xe": "VF5",
-  "Biển số": "50H53438",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Nguyễn Văn Lưa (6087655)"
- },
- {
-  "STT": "308",
-  "Dòng xe": "VF5",
-  "Biển số": "50H53431",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Khuất Duy Tuân (6087601)"
- },
- {
-  "STT": "309",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52629",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Phạm Thanh Sang (6087690)"
- },
- {
-  "STT": "310",
-  "Dòng xe": "VF5",
-  "Biển số": "50H53031",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Nguyễn Anh Khoa (6087108)"
- },
- {
-  "STT": "311",
-  "Dòng xe": "VF5",
-  "Biển số": "50H51721",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Nguyễn Văn Minh (6087628)"
- },
- {
-  "STT": "312",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52887",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 3",
-  "Tài xế": "Nguyễn Thanh Liêm (6087705)"
- },
- {
-  "STT": "313",
-  "Dòng xe": "VF5",
-  "Biển số": "50H63156",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1"
- },
- {
-  "STT": "314",
-  "Dòng xe": "VF5",
-  "Biển số": "50H57640",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1"
- },
- {
-  "STT": "315",
-  "Dòng xe": "VF5",
-  "Biển số": "50H56592",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Lê Hữu Sự (6087140)"
- },
- {
-  "STT": "316",
-  "Dòng xe": "VF5",
-  "Biển số": "50H56191",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Dương Văn Thanh (6087158)"
- },
- {
-  "STT": "317",
-  "Dòng xe": "VF5",
-  "Biển số": "50H57120",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Phan Hữu Quốc (6087134)"
- },
- {
-  "STT": "318",
-  "Dòng xe": "VF5",
-  "Biển số": "50H57953",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Trương Quốc Hưng (6087335)"
- },
- {
-  "STT": "319",
-  "Dòng xe": "VF5",
-  "Biển số": "50H51902",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Huỳnh Minh Thông (6087654)"
- },
- {
-  "STT": "320",
-  "Dòng xe": "VF5",
-  "Biển số": "50H56770",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Bùi Viết Hà (6087081)"
- },
- {
-  "STT": "321",
-  "Dòng xe": "VF5",
-  "Biển số": "50H57653",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Nguyễn Hoàng Sơn (6087301)"
- },
- {
-  "STT": "322",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52024",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Vũ Việt Nhật (6087698)"
- },
- {
-  "STT": "323",
-  "Dòng xe": "VF5",
-  "Biển số": "50H51811",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Trần Hoàng Sang (6087862)"
- },
- {
-  "STT": "324",
-  "Dòng xe": "VF5",
-  "Biển số": "50H51723",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Nguyễn Đức Hào (6085689)"
- },
- {
-  "STT": "325",
-  "Dòng xe": "VF5",
-  "Biển số": "50H53235",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Trần Thái Thượng Tú (6087345)"
- },
- {
-  "STT": "326",
-  "Dòng xe": "VF5",
-  "Biển số": "50H46286",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 1",
-  "Tài xế": "Trần Trọng Tín (6087146)"
- },
- {
-  "STT": "327",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52292",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Nguyễn Đình Doanh (6087075)"
- },
- {
-  "STT": "328",
-  "Dòng xe": "VF5",
-  "Biển số": "50H52212",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 2",
-  "Tài xế": "Trần Công Hậu (6087088)"
- },
- {
-  "STT": "329",
-  "Dòng xe": "VF5",
-  "Biển số": "50H27924",
-  "Đội": "Q12.DOIXE07",
-  "Tổ": "Tổ 4",
-  "Tài xế": "Nguyễn Hữu Thành (6088146)"
- }
+    {
+        "STT": "1",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78446",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Anh Toàn (6088138)"
+    },
+    {
+        "STT": "2",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77715",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Trần Hùng Minh (6087903)"
+    },
+    {
+        "STT": "3",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77993",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Châu Minh Sang (6087909)"
+    },
+    {
+        "STT": "4",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77497",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Đăng Nhật (6088117)"
+    },
+    {
+        "STT": "5",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78324",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Viên Ngọc Hải (6088082)"
+    },
+    {
+        "STT": "6",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78248",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Dương Minh Luân (6087916)"
+    },
+    {
+        "STT": "7",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78910",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Tấn Đạt (6088077)"
+    },
+    {
+        "STT": "8",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77897",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Lê Thanh Phú (6087694)"
+    },
+    {
+        "STT": "9",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78118",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Đạt Phú (6087848)"
+    },
+    {
+        "STT": "10",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77187",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Ngọc Tuấn (6020363)"
+    },
+    {
+        "STT": "11",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78540",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Châu Hồng Linh (6087924)"
+    },
+    {
+        "STT": "12",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77600",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Anh Thuần (6088154)"
+    },
+    {
+        "STT": "13",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77557",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Phạm Anh Ngọc (6089072)"
+    },
+    {
+        "STT": "14",
+        "Dòng xe": "VF5",
+        "Biển số": "50H73625",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Huỳnh Phương Quang (6088125)"
+    },
+    {
+        "STT": "15",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78591",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Mai Hiển Đạt (6087855)"
+    },
+    {
+        "STT": "16",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77817",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Văn Lưu (6039516)"
+    },
+    {
+        "STT": "17",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78551",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Văn Tú (6088140)"
+    },
+    {
+        "STT": "18",
+        "Dòng xe": "VF5",
+        "Biển số": "50H73833",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Huỳnh Mai Anh Tuấn (6087680)"
+    },
+    {
+        "STT": "19",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77801",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Lê Mạnh Cường (6087367)"
+    },
+    {
+        "STT": "20",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77308",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Phan Nhật Huynh (6088094)"
+    },
+    {
+        "STT": "21",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78587",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Đỗ Cao Đạt (6087840)"
+    },
+    {
+        "STT": "22",
+        "Dòng xe": "VF5",
+        "Biển số": "50H74667",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Phạm Tân Chiến (6087343)"
+    },
+    {
+        "STT": "23",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78104",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Dương Đức Bảo (6087371)"
+    },
+    {
+        "STT": "24",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78561",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Trần Phú (6087851)"
+    },
+    {
+        "STT": "25",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77875",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Văn Thạch (6087873)"
+    },
+    {
+        "STT": "26",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78117",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Ngọc Hiếu (6087913)"
+    },
+    {
+        "STT": "27",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77446",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Nguyễn Minh Tuấn (6053718)"
+    },
+    {
+        "STT": "28",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77487",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Huỳnh Công Thành (6034464)"
+    },
+    {
+        "STT": "29",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77549",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Trịnh Xuân Sơn (6087917)"
+    },
+    {
+        "STT": "30",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78381",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Tấn Đạt (6080767)"
+    },
+    {
+        "STT": "31",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78047",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Đinh Xuân Duy (6088074)"
+    },
+    {
+        "STT": "32",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77640",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Thanh Kiệt (6088095)"
+    },
+    {
+        "STT": "33",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78804",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Lập Kiểu (6088097)"
+    },
+    {
+        "STT": "34",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78002",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": ""
+    },
+    {
+        "STT": "35",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77616",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Tiến Xuân (6087351)"
+    },
+    {
+        "STT": "36",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78358",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Dương Minh Đức (6087857)"
+    },
+    {
+        "STT": "37",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78465",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Hoàng Phương (6088124)"
+    },
+    {
+        "STT": "38",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78081",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Phạm Bá Lê Duy (6033581)"
+    },
+    {
+        "STT": "39",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78203",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Lê Văn Tư (6087849)"
+    },
+    {
+        "STT": "40",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77678",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": ""
+    },
+    {
+        "STT": "41",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78126",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Phước Huy (6087326)"
+    },
+    {
+        "STT": "42",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78823",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Tấn Trung (6087340)"
+    },
+    {
+        "STT": "43",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77670",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Trần Đăng Mai (6087350)"
+    },
+    {
+        "STT": "44",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78970",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Thành Tấn Khang (6088099)"
+    },
+    {
+        "STT": "45",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77511",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": ""
+    },
+    {
+        "STT": "46",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77434",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Văn Đức (6087080)"
+    },
+    {
+        "STT": "47",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78649",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Văn Danh (6088068)"
+    },
+    {
+        "STT": "48",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77094",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Vũ Phương (6087687)"
+    },
+    {
+        "STT": "49",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77995",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Trần Văn Phúc (6089084)"
+    },
+    {
+        "STT": "50",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78280",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Lê Quốc Cường (6089006)"
+    },
+    {
+        "STT": "51",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77213",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Vũ Tuấn Anh (6088997)"
+    },
+    {
+        "STT": "52",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78494",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": ""
+    },
+    {
+        "STT": "53",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78618",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": ""
+    },
+    {
+        "STT": "54",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78819",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Phương Đạt (6089009)"
+    },
+    {
+        "STT": "55",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77354",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Lê Văn Bảo Lộc (6089058)"
+    },
+    {
+        "STT": "56",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78833",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Tấn Thành (6088147)"
+    },
+    {
+        "STT": "57",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77671",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Phùng Nhật Tú (6087319)"
+    },
+    {
+        "STT": "58",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77561",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Lâm Kiến Dũng (6087382)"
+    },
+    {
+        "STT": "59",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77280",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Viết Lực (6087300)"
+    },
+    {
+        "STT": "60",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78633",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Ngô Anh Dũng (6087379)"
+    },
+    {
+        "STT": "61",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77436",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Hoàng Ngọc Hiệp (6087342)"
+    },
+    {
+        "STT": "62",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78883",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Trần Trung Hiếu (6088087)"
+    },
+    {
+        "STT": "63",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77808",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Trần Minh Quân (6087307)"
+    },
+    {
+        "STT": "64",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77951",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Trần Xuân Dậu (6068694)"
+    },
+    {
+        "STT": "65",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77608",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Đình Bình (6087066)"
+    },
+    {
+        "STT": "66",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78320",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Đỗ Thành Nguyên (6087662)"
+    },
+    {
+        "STT": "67",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78572",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Chí Nguyện (6088116)"
+    },
+    {
+        "STT": "68",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78007",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Vũ Đình Chiêu (6087612)"
+    },
+    {
+        "STT": "69",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78217",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Cao Văn Lý (6087627)"
+    },
+    {
+        "STT": "70",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77304",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Lâm Thiện Hải (6087084)"
+    },
+    {
+        "STT": "71",
+        "Dòng xe": "VF5",
+        "Biển số": "50H74557",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Đinh Viết Hữu (6089040)"
+    },
+    {
+        "STT": "72",
+        "Dòng xe": "VF5",
+        "Biển số": "50H74685",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Thành Luân (6089065)"
+    },
+    {
+        "STT": "73",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77932",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Huỳnh Thanh Quý (6089090)"
+    },
+    {
+        "STT": "74",
+        "Dòng xe": "VF5",
+        "Biển số": "50H74713",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Hà Nhật Hoàng Khanh (6089046)"
+    },
+    {
+        "STT": "75",
+        "Dòng xe": "VF5",
+        "Biển số": "50H73902",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Huỳnh Thên (6089113)"
+    },
+    {
+        "STT": "76",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77426",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": ""
+    },
+    {
+        "STT": "77",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78377",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Ngọc Thanh (6053684)"
+    },
+    {
+        "STT": "78",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78876",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Phạm Nhật Phong (6089080)"
+    },
+    {
+        "STT": "79",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78650",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Đinh Thế Hùng (6089037)"
+    },
+    {
+        "STT": "80",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78656",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Vũ Văn Tiên (6005469)"
+    },
+    {
+        "STT": "81",
+        "Dòng xe": "VF5",
+        "Biển số": "50H73956",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Nguyễn Đức Hiếu (6089031)"
+    },
+    {
+        "STT": "82",
+        "Dòng xe": "VF5",
+        "Biển số": "50H78624",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": ""
+    },
+    {
+        "STT": "83",
+        "Dòng xe": "VF5",
+        "Biển số": "50H77973",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Nguyễn Thành Phước (6089086)"
+    },
+    {
+        "STT": "84",
+        "Dòng xe": "VF5",
+        "Biển số": "50H74065",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Huỳnh Văn Huyên (6065476)"
+    },
+    {
+        "STT": "85",
+        "Dòng xe": "VF5",
+        "Biển số": "50H74726",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Lê Quang Tiến (6077399)"
+    },
+    {
+        "STT": "86",
+        "Dòng xe": "VF5",
+        "Biển số": "50H73600",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Đỗ Ngọc Hiếu (6085440)"
+    },
+    {
+        "STT": "87",
+        "Dòng xe": "VF5",
+        "Biển số": "50H74032",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Trần Ngọc Nam (6089068)"
+    },
+    {
+        "STT": "88",
+        "Dòng xe": "VF5",
+        "Biển số": "50H74982",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Phạm Văn Thuận (6089120)"
+    },
+    {
+        "STT": "89",
+        "Dòng xe": "VF5",
+        "Biển số": "50H74151",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Ngô Tuấn Thành (6089112)"
+    },
+    {
+        "STT": "90",
+        "Dòng xe": "VF5",
+        "Biển số": "50H74431",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Trần Hoàng Tâm (6089102)"
+    },
+    {
+        "STT": "91",
+        "Dòng xe": "VF5",
+        "Biển số": "50H73728",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Hồ Thanh Sang (6089092)"
+    },
+    {
+        "STT": "92",
+        "Dòng xe": "VF5",
+        "Biển số": "50H74156",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Lê Minh Thức (6089123)"
+    },
+    {
+        "STT": "93",
+        "Dòng xe": "VF5",
+        "Biển số": "50H74554",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Phan Thị Thu Hà (6087083)"
+    },
+    {
+        "STT": "94",
+        "Dòng xe": "VF5",
+        "Biển số": "50H74850",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Văn Thành Công (6089004)"
+    },
+    {
+        "STT": "95",
+        "Dòng xe": "VF5",
+        "Biển số": "50H74718",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Cao Phan Minh Nam (6089070)"
+    },
+    {
+        "STT": "96",
+        "Dòng xe": "VF5",
+        "Biển số": "50H73754",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Phan Như Bình (6087683)"
+    },
+    {
+        "STT": "97",
+        "Dòng xe": "VF5",
+        "Biển số": "50H74493",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Minh Thái Em (6087902)"
+    },
+    {
+        "STT": "98",
+        "Dòng xe": "VF5",
+        "Biển số": "50H74585",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Đức Hải (6089022)"
+    },
+    {
+        "STT": "99",
+        "Dòng xe": "VF5",
+        "Biển số": "50H74710",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Văn Sơn (6089099)"
+    },
+    {
+        "STT": "100",
+        "Dòng xe": "VF5",
+        "Biển số": "50H74651",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Từ Huy (6089043)"
+    },
+    {
+        "STT": "101",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70749",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Lê Viết Hiếu (6084726)"
+    },
+    {
+        "STT": "102",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H66216",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Nguyễn Văn Tuấn (6083985)"
+    },
+    {
+        "STT": "103",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H69143",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": ""
+    },
+    {
+        "STT": "104",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70629",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Nguyễn Đức Thắng (6084774)"
+    },
+    {
+        "STT": "105",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H69865",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Nguyễn Văn Lành (6087111)"
+    },
+    {
+        "STT": "106",
+        "Dòng xe": "VF5",
+        "Biển số": "50H73723",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Huỳnh Quốc Duy (6087682)"
+    },
+    {
+        "STT": "107",
+        "Dòng xe": "VF5",
+        "Biển số": "50H66262",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Hà Quang Định (6087376)"
+    },
+    {
+        "STT": "108",
+        "Dòng xe": "VF5",
+        "Biển số": "50H74824",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": ""
+    },
+    {
+        "STT": "109",
+        "Dòng xe": "VF5",
+        "Biển số": "50H73734",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Thị Thanh Xuân (6087685)"
+    },
+    {
+        "STT": "110",
+        "Dòng xe": "VF5",
+        "Biển số": "50H69481",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": ""
+    },
+    {
+        "STT": "111",
+        "Dòng xe": "VF5",
+        "Biển số": "50H69956",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Trần Như Hoàng Long (6087314)"
+    },
+    {
+        "STT": "112",
+        "Dòng xe": "VF5",
+        "Biển số": "50H69761",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Phan Tuấn Anh (6085653)"
+    },
+    {
+        "STT": "113",
+        "Dòng xe": "VF5",
+        "Biển số": "50H70391",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Đoàn Văn Lộc (6085684)"
+    },
+    {
+        "STT": "114",
+        "Dòng xe": "VF5",
+        "Biển số": "50H69241",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Trần Ngọc Khang (6087702)"
+    },
+    {
+        "STT": "115",
+        "Dòng xe": "VF5",
+        "Biển số": "50H70971",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Lê Đức Thiện (6087639)"
+    },
+    {
+        "STT": "116",
+        "Dòng xe": "VF5",
+        "Biển số": "50H73545",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Lưu Văn Trường (6087360)"
+    },
+    {
+        "STT": "117",
+        "Dòng xe": "VF5",
+        "Biển số": "50H69742",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Đặng Tuấn Anh (6085652)"
+    },
+    {
+        "STT": "118",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H73543",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Phạm Hùng Cường (6084768)"
+    },
+    {
+        "STT": "119",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H74931",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Trần Trí Mẫn (6057229)"
+    },
+    {
+        "STT": "120",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H74574",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Nguyễn Văn Hải (6085082)"
+    },
+    {
+        "STT": "121",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H74767",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Nguyễn Văn Ý (6085093)"
+    },
+    {
+        "STT": "122",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70334",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Trương Hoàng Long (6084762)"
+    },
+    {
+        "STT": "123",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70245",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": ""
+    },
+    {
+        "STT": "124",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H74552",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Nguyễn Ngọc Huy (6087359)"
+    },
+    {
+        "STT": "125",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H74673",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Huỳnh Minh Khoa (6089050)"
+    },
+    {
+        "STT": "126",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H73756",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Châu Văn Thuận (6085148)"
+    },
+    {
+        "STT": "127",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H69175",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Lâm Văn Cường (6084718)"
+    },
+    {
+        "STT": "128",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H69393",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Nguyễn Ngọc Trung (6085683)"
+    },
+    {
+        "STT": "129",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70554",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Phan Vĩnh Hạ (6084772)"
+    },
+    {
+        "STT": "130",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70408",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Nguyễn Văn Tuấn (6084771)"
+    },
+    {
+        "STT": "131",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70315",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Nguyễn Ngọc Bảo (6084755)"
+    },
+    {
+        "STT": "132",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H66148",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Nguyễn Thạc Thuận (6084710)"
+    },
+    {
+        "STT": "133",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70658",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Nguyễn Duy Khanh (6084776)"
+    },
+    {
+        "STT": "134",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H69692",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Phan Tấn Sang (6084735)"
+    },
+    {
+        "STT": "135",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H69750",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Đỗ Trọng Nghĩa (6085120)"
+    },
+    {
+        "STT": "136",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70960",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Võ Quang Duy (6085152)"
+    },
+    {
+        "STT": "137",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H73847",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Nguyễn Kim Đính (6085109)"
+    },
+    {
+        "STT": "138",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H74987",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Phạm Trường An (6085173)"
+    },
+    {
+        "STT": "139",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H74214",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Nguyễn Văn Cường (6085076)"
+    },
+    {
+        "STT": "140",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70625",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Ngô Minh Hiếu (6085176)"
+    },
+    {
+        "STT": "141",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70747",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Nguyễn Đình Thành (6085057)"
+    },
+    {
+        "STT": "142",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H74491",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Thái Văn Sơn (6085060)"
+    },
+    {
+        "STT": "143",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70613",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Cao Văn Thống (6085071)"
+    },
+    {
+        "STT": "144",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70801",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Phạm Phương Quang (6085119)"
+    },
+    {
+        "STT": "145",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70992",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Nguyễn Thiện Quý (6084784)"
+    },
+    {
+        "STT": "146",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70617",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Lê Hoàng Nhân (6084773)"
+    },
+    {
+        "STT": "147",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H69547",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Lê Mạnh An (6084725)"
+    },
+    {
+        "STT": "148",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H69919",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Lê Thanh Giang (6085663)"
+    },
+    {
+        "STT": "149",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H69614",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Nguyễn Đỗ Thành Hưng (6085442)"
+    },
+    {
+        "STT": "150",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H73622",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Diêu Cam Hùng (6085088)"
+    },
+    {
+        "STT": "151",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H74758",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Vũ Đức Hải (6085051)"
+    },
+    {
+        "STT": "152",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70852",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Lê Nguyễn Ngọc Khanh (6001557)"
+    },
+    {
+        "STT": "153",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70765",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Phan Pha Sung (6085064)"
+    },
+    {
+        "STT": "154",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70404",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Hoàng Mạnh Cường (6084766)"
+    },
+    {
+        "STT": "155",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70684",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Hà Đồng Tuyến (6085096)"
+    },
+    {
+        "STT": "156",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H73565",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Trần Hoài Vương (6085080)"
+    },
+    {
+        "STT": "157",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70947",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Vũ Việt Nhật (6087698)"
+    },
+    {
+        "STT": "158",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70806",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Nguyễn Duy Đal (6085174)"
+    },
+    {
+        "STT": "159",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70816",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Đoàn Văn Vui (6008339)"
+    },
+    {
+        "STT": "160",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70772",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Hoa Thanh Thuận (6085169)"
+    },
+    {
+        "STT": "161",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70324",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Nguyễn Đắc Thưởng (6085632)"
+    },
+    {
+        "STT": "162",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H69173",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Trần Thanh Ngọc (6085085)"
+    },
+    {
+        "STT": "163",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70272",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Phí Minh Việt (6085036)"
+    },
+    {
+        "STT": "164",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H69505",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Hoàng Trung Vương (6085033)"
+    },
+    {
+        "STT": "165",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H69880",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Nguyễn Tuấn Anh (6085421)"
+    },
+    {
+        "STT": "166",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70495",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Nguyễn Thanh Bình (6085141)"
+    },
+    {
+        "STT": "167",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70535",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": ""
+    },
+    {
+        "STT": "168",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H66936",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Nguyễn Nguyên Vũ (6087168)"
+    },
+    {
+        "STT": "169",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70034",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Võ Văn Cảnh (6085074)"
+    },
+    {
+        "STT": "170",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70959",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Lê Cảnh Thắng (6085068)"
+    },
+    {
+        "STT": "171",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70876",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Nguyễn Thanh Toàn (6085150)"
+    },
+    {
+        "STT": "172",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70571",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Nguyễn Phú Hoàng Thành (6085129)"
+    },
+    {
+        "STT": "173",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70848",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Lê Minh Tâm (6084760)"
+    },
+    {
+        "STT": "174",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70719",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Lê Tấn Mạnh (6085089)"
+    },
+    {
+        "STT": "175",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70758",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Lê Quốc Trình (6085081)"
+    },
+    {
+        "STT": "176",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70884",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Trần Lê Anh Khoa (6085125)"
+    },
+    {
+        "STT": "177",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70021",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Lê Hoàng Kha (6085153)"
+    },
+    {
+        "STT": "178",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H74483",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Nguyễn Thanh Hoài (6054653)"
+    },
+    {
+        "STT": "179",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H69794",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Nguyễn Đình Tân (6085040)"
+    },
+    {
+        "STT": "180",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H66203",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Đỗ Hữu Duy Phúc (6060696)"
+    },
+    {
+        "STT": "181",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70720",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Nguyễn Trường Sơn (6085122)"
+    },
+    {
+        "STT": "182",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70955",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Bùi Văn Chinh (6085056)"
+    },
+    {
+        "STT": "183",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70781",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Đinh Giang Nghĩa (6085037)"
+    },
+    {
+        "STT": "184",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H69237",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Nguyễn Quang Vinh (6010452)"
+    },
+    {
+        "STT": "185",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70583",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Nguyễn Khánh Huy (6034411)"
+    },
+    {
+        "STT": "186",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H69529",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Lữ Văn Hải (6039615)"
+    },
+    {
+        "STT": "187",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70335",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Lê Ngọc Khánh (6034317)"
+    },
+    {
+        "STT": "188",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70910",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Vũ Văn Hải (6085052)"
+    },
+    {
+        "STT": "189",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70757",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Lê Hữu Hùng (6085058)"
+    },
+    {
+        "STT": "190",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70918",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Chu Văn An (6085097)"
+    },
+    {
+        "STT": "191",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70652",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Hồ Quốc Việt (6085157)"
+    },
+    {
+        "STT": "192",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H70063",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Ngô Khảm (6036845)"
+    },
+    {
+        "STT": "193",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H66226",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Lê Văn Nam (6087336)"
+    },
+    {
+        "STT": "194",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H66011",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Võ Thành Long (6087311)"
+    },
+    {
+        "STT": "195",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H66904",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Hồng Ngọc (6087304)"
+    },
+    {
+        "STT": "196",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H62507",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Lâm Minh Liêm Sắt (6028495)"
+    },
+    {
+        "STT": "197",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H63049",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Nguyễn Quang Ấn (6068281)"
+    },
+    {
+        "STT": "198",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H62311",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Phạm Lý Chính Thắng (6035184)"
+    },
+    {
+        "STT": "199",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H57308",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Phạm Văn Bình (6052266)"
+    },
+    {
+        "STT": "200",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H61567",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Trần Quốc Toàn (6079820)"
+    },
+    {
+        "STT": "201",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H69131",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Cao Minh Nhật (6085069)"
+    },
+    {
+        "STT": "202",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H65874",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Bùi Tri Phương (6069418)"
+    },
+    {
+        "STT": "203",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H62749",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Lê Văn Út (6035545)"
+    },
+    {
+        "STT": "204",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H62829",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": ""
+    },
+    {
+        "STT": "205",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H63326",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Phạm Văn Tuấn (6088143)"
+    },
+    {
+        "STT": "206",
+        "Dòng xe": "VF5",
+        "Biển số": "50H53011",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Hoàng Trọng Vũ (6087166)"
+    },
+    {
+        "STT": "207",
+        "Dòng xe": "VF5",
+        "Biển số": "50H47177",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Lê Nhựt Tân (6087143)"
+    },
+    {
+        "STT": "208",
+        "Dòng xe": "VF5",
+        "Biển số": "50H46514",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Nguyễn Thế Hào (6087087)"
+    },
+    {
+        "STT": "209",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52539",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nông Công Khuyến (6085450)"
+    },
+    {
+        "STT": "210",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52325",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Châu Văn Nghĩa (6087118)"
+    },
+    {
+        "STT": "211",
+        "Dòng xe": "VF5",
+        "Biển số": "50H47110",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Phùng Thế Hào (6087086)"
+    },
+    {
+        "STT": "212",
+        "Dòng xe": "VF5",
+        "Biển số": "50H46816",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Trần Thanh Bình (6088062)"
+    },
+    {
+        "STT": "213",
+        "Dòng xe": "VF5",
+        "Biển số": "50H46263",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Hoàng Nhật Huy (6087100)"
+    },
+    {
+        "STT": "214",
+        "Dòng xe": "VF5",
+        "Biển số": "50H53452",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Tuấn Sang (6085666)"
+    },
+    {
+        "STT": "215",
+        "Dòng xe": "VF5",
+        "Biển số": "50H51883",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Đình Quân (6085636)"
+    },
+    {
+        "STT": "216",
+        "Dòng xe": "VF5",
+        "Biển số": "50H53248",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Hồng Cường (6085639)"
+    },
+    {
+        "STT": "217",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52489",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Ngô Ngọc Tuấn Khanh (6085694)"
+    },
+    {
+        "STT": "218",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H66195",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": ""
+    },
+    {
+        "STT": "219",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H65892",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": ""
+    },
+    {
+        "STT": "220",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H62815",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Võ Tấn Khoa (6087884)"
+    },
+    {
+        "STT": "221",
+        "Dòng xe": "VF5",
+        "Biển số": "50H47122",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Xuân Vũ (6085494)"
+    },
+    {
+        "STT": "222",
+        "Dòng xe": "VF5",
+        "Biển số": "50H47118",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": ""
+    },
+    {
+        "STT": "223",
+        "Dòng xe": "VF5",
+        "Biển số": "50H46592",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Đinh Thị Mỹ Hồng (6087346)"
+    },
+    {
+        "STT": "224",
+        "Dòng xe": "VF5",
+        "Biển số": "50H47037",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Quốc Nghĩa (6085458)"
+    },
+    {
+        "STT": "225",
+        "Dòng xe": "VF5",
+        "Biển số": "50H46986",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Mai Văn Phước (6085708)"
+    },
+    {
+        "STT": "226",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52251",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Thân Văn Kha (6085447)"
+    },
+    {
+        "STT": "227",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52118",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Trần Mộng Duy (6087078)"
+    },
+    {
+        "STT": "228",
+        "Dòng xe": "VF5",
+        "Biển số": "50H51892",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": ""
+    },
+    {
+        "STT": "229",
+        "Dòng xe": "VF5",
+        "Biển số": "50H53341",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Phi Hùng (6085658)"
+    },
+    {
+        "STT": "230",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52787",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Huỳnh Đô Anh (6087063)"
+    },
+    {
+        "STT": "231",
+        "Dòng xe": "VF5",
+        "Biển số": "50H53093",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Phạm Văn Văn (6087165)"
+    },
+    {
+        "STT": "232",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52769",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Trọng Tùng (6087155)"
+    },
+    {
+        "STT": "233",
+        "Dòng xe": "VF5",
+        "Biển số": "50H51603",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Lâm Quốc Nam (6085457)"
+    },
+    {
+        "STT": "234",
+        "Dòng xe": "VF5",
+        "Biển số": "50H46767",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": ""
+    },
+    {
+        "STT": "235",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52278",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Lý Chấn Phước (6085463)"
+    },
+    {
+        "STT": "236",
+        "Dòng xe": "VF5",
+        "Biển số": "50H51604",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Thanh Quang (6085466)"
+    },
+    {
+        "STT": "237",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52883",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": ""
+    },
+    {
+        "STT": "238",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52375",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Văn Khoái (6087109)"
+    },
+    {
+        "STT": "239",
+        "Dòng xe": "VF5",
+        "Biển số": "50H47078",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Mộng Ngọc Hưng (6085443)"
+    },
+    {
+        "STT": "240",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52524",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Đinh Quang Tuân (6085035)"
+    },
+    {
+        "STT": "241",
+        "Dòng xe": "VF5",
+        "Biển số": "50H47023",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Trương Minh Hiếu (6085669)"
+    },
+    {
+        "STT": "242",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52295",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Phạm Trường Giang (6087349)"
+    },
+    {
+        "STT": "243",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H65620",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Trần Anh Tuấn (6008325)"
+    },
+    {
+        "STT": "244",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H62481",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Nguyễn Công Văn (6079750)"
+    },
+    {
+        "STT": "245",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H61703",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": ""
+    },
+    {
+        "STT": "246",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H61980",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Nguyễn Huỳnh Giao (6086441)"
+    },
+    {
+        "STT": "247",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H63035",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": ""
+    },
+    {
+        "STT": "248",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H62412",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Lê Quốc Cường (6080283)"
+    },
+    {
+        "STT": "249",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H62671",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Huỳnh Xuân Hùng (6079789)"
+    },
+    {
+        "STT": "250",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H62882",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Nguyễn Tấn Tài (6081354)"
+    },
+    {
+        "STT": "251",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H61920",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Văn Khôi (6013691)"
+    },
+    {
+        "STT": "252",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H61767",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Lê Phát Thắng (6081356)"
+    },
+    {
+        "STT": "253",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H69304",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Trần Thế Trung (6075233)"
+    },
+    {
+        "STT": "254",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H61659",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Cao Hữu Ngọc (6079106)"
+    },
+    {
+        "STT": "255",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H56542",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Nguyễn Anh Tuấn (6077456)"
+    },
+    {
+        "STT": "256",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H61693",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Nguyễn Văn Pháp (6078934)"
+    },
+    {
+        "STT": "257",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H61519",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Nguyễn Thái Hậu (6078898)"
+    },
+    {
+        "STT": "258",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H63110",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Văn Thủy (6085177)"
+    },
+    {
+        "STT": "259",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H62641",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Huỳnh Tấn Lộc (6072200)"
+    },
+    {
+        "STT": "260",
+        "Dòng xe": "VF5",
+        "Biển số": "50H53010",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Trọng Tôn (6085650)"
+    },
+    {
+        "STT": "261",
+        "Dòng xe": "VF5",
+        "Biển số": "50H53458",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": ""
+    },
+    {
+        "STT": "262",
+        "Dòng xe": "VF5",
+        "Biển số": "50H53472",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Hà Quốc Tuấn (6085486)"
+    },
+    {
+        "STT": "263",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H61537",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Dương Minh Trọng (6077403)"
+    },
+    {
+        "STT": "264",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H62617",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Lê Trung Dũng (6053607)"
+    },
+    {
+        "STT": "265",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H62293",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Trần Phúc Liêm (6080278)"
+    },
+    {
+        "STT": "266",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H62613",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Phạm Ngọc Hưng (6082208)"
+    },
+    {
+        "STT": "267",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H63305",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": ""
+    },
+    {
+        "STT": "268",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H62576",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Nguyễn Quốc Khoa (6056296)"
+    },
+    {
+        "STT": "269",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H62430",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": ""
+    },
+    {
+        "STT": "270",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H62993",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Nguyễn Chí Thành (6071102)"
+    },
+    {
+        "STT": "271",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H63306",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Lê Hoàng Đạt (6056611)"
+    },
+    {
+        "STT": "272",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H62772",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Nguyễn Thành Danh (6040771)"
+    },
+    {
+        "STT": "273",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H62925",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": ""
+    },
+    {
+        "STT": "274",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H62443",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Lê Minh Hiếu (6074357)"
+    },
+    {
+        "STT": "275",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H63434",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Nguyễn Văn Hoàng (6075823)"
+    },
+    {
+        "STT": "276",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H62809",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Nguyễn Hữu Tính (6036523)"
+    },
+    {
+        "STT": "277",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H62962",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Đào Ngọc Anh Vũ (6081355)"
+    },
+    {
+        "STT": "278",
+        "Dòng xe": "VF5",
+        "Biển số": "50H47154",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": ""
+    },
+    {
+        "STT": "279",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52667",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": ""
+    },
+    {
+        "STT": "280",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52598",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Linh Lập Bình (6076778)"
+    },
+    {
+        "STT": "281",
+        "Dòng xe": "VF5",
+        "Biển số": "50H46289",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Đinh Xuân Hưng (6089038)"
+    },
+    {
+        "STT": "282",
+        "Dòng xe": "VF5",
+        "Biển số": "50H51852",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Thành Thịnh (6085682)"
+    },
+    {
+        "STT": "283",
+        "Dòng xe": "VF5",
+        "Biển số": "50H51901",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Thành Bảo (6087065)"
+    },
+    {
+        "STT": "284",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H63316",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Phan Thanh Sơn (6074082)"
+    },
+    {
+        "STT": "285",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H62335",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Võ Hữu Quý (6080296)"
+    },
+    {
+        "STT": "286",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H62959",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Nguyễn Quang Ánh (6039069)"
+    },
+    {
+        "STT": "287",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H63329",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Phạm Minh Tấn (6074791)"
+    },
+    {
+        "STT": "288",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52495",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Ngô Lê Đình Khải (6087104)"
+    },
+    {
+        "STT": "289",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52720",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Anh Đức (6085644)"
+    },
+    {
+        "STT": "290",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52637",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Lê Tuấn Khải (6087105)"
+    },
+    {
+        "STT": "291",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52680",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Đinh Đào Ngọc Vũ Anh (6087062)"
+    },
+    {
+        "STT": "292",
+        "Dòng xe": "VF5",
+        "Biển số": "50H51612",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Anh Tuấn (6085487)"
+    },
+    {
+        "STT": "293",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H62315",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Ya Tri (6079736)"
+    },
+    {
+        "STT": "294",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H62336",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Nguyễn Bé Măng (6080271)"
+    },
+    {
+        "STT": "295",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H61580",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Lê Văn Hưng (6075828)"
+    },
+    {
+        "STT": "296",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H57172",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Nguyễn Ngọc Bá (6079775)"
+    },
+    {
+        "STT": "297",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H62851",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Nguyễn Đức Anh (6079806)"
+    },
+    {
+        "STT": "298",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H63041",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Nguyễn Bá Quân (6080314)"
+    },
+    {
+        "STT": "299",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H56591",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Nguyễn Nhật Minh (6079101)"
+    },
+    {
+        "STT": "300",
+        "Dòng xe": "VF5",
+        "Biển số": "50H51897",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Mạnh Khang (6085690)"
+    },
+    {
+        "STT": "301",
+        "Dòng xe": "VF5",
+        "Biển số": "50H53184",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Giáp Thanh Bình (6085664)"
+    },
+    {
+        "STT": "302",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52461",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Văn Tuấn Kiệt (6087102)"
+    },
+    {
+        "STT": "303",
+        "Dòng xe": "VF5",
+        "Biển số": "50H47165",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": ""
+    },
+    {
+        "STT": "304",
+        "Dòng xe": "VF5",
+        "Biển số": "50H51785",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Đinh Anh Tuấn (6087152)"
+    },
+    {
+        "STT": "305",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52315",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Văn Hồng (6085063)"
+    },
+    {
+        "STT": "306",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52711",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Phú Bình (6085422)"
+    },
+    {
+        "STT": "307",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52200",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Thanh Toàn (6087148)"
+    },
+    {
+        "STT": "308",
+        "Dòng xe": "VF5",
+        "Biển số": "50H46371",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Phan Văn Phú Quý (6085704)"
+    },
+    {
+        "STT": "309",
+        "Dòng xe": "VF5",
+        "Biển số": "50H53398",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Vũ Minh Bình (6085633)"
+    },
+    {
+        "STT": "310",
+        "Dòng xe": "VF5",
+        "Biển số": "50H51882",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Bùi Thanh Minh (6085647)"
+    },
+    {
+        "STT": "311",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52584",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Phạm Khắc Kim (6087103)"
+    },
+    {
+        "STT": "312",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52128",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": ""
+    },
+    {
+        "STT": "313",
+        "Dòng xe": "VF5",
+        "Biển số": "50H53025",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Lê Văn Dương (6085432)"
+    },
+    {
+        "STT": "314",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H61559",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Cao Hồng Tiệp (6074116)"
+    },
+    {
+        "STT": "315",
+        "Dòng xe": "VF5",
+        "Biển số": "50H53469",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Tạ Ngọc Hà (6085034)"
+    },
+    {
+        "STT": "316",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52376",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Bá Thưởng (6065590)"
+    },
+    {
+        "STT": "317",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52575",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Mai Huy Thìn (6089116)"
+    },
+    {
+        "STT": "318",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52500",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Đỗ Huỳnh Anh Khôi (6085449)"
+    },
+    {
+        "STT": "319",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H65803",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Thân Trung Hiếu (6056628)"
+    },
+    {
+        "STT": "320",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H61700",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Võ Hoàng Dũng (6078874)"
+    },
+    {
+        "STT": "321",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52171",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Thanh Tiến (6087320)"
+    },
+    {
+        "STT": "322",
+        "Dòng xe": "VF5",
+        "Biển số": "50H53306",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": ""
+    },
+    {
+        "STT": "323",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52476",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Hà Bảo Huy (6087637)"
+    },
+    {
+        "STT": "324",
+        "Dòng xe": "VF5",
+        "Biển số": "50H56678",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Đoàn Trung Hiếu (6085438)"
+    },
+    {
+        "STT": "325",
+        "Dòng xe": "VF5",
+        "Biển số": "50H53247",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Châu Duy Phong (6087128)"
+    },
+    {
+        "STT": "326",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52253",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Nhật Quang (6087132)"
+    },
+    {
+        "STT": "327",
+        "Dòng xe": "VF5",
+        "Biển số": "50H51756",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Hữu Tài (6087141)"
+    },
+    {
+        "STT": "328",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52778",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Phạm Đức Cường (6087070)"
+    },
+    {
+        "STT": "329",
+        "Dòng xe": "VF5",
+        "Biển số": "50H53379",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Trần Chánh Tây (6087144)"
+    },
+    {
+        "STT": "330",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52881",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Trịnh Minh Dũng (6087077)"
+    },
+    {
+        "STT": "331",
+        "Dòng xe": "VF5",
+        "Biển số": "50H51961",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Đan Trường (6087164)"
+    },
+    {
+        "STT": "332",
+        "Dòng xe": "VF5",
+        "Biển số": "50H53401",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Tô Minh Thức (6087701)"
+    },
+    {
+        "STT": "333",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52570",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Lê Mậu Trí (6087624)"
+    },
+    {
+        "STT": "334",
+        "Dòng xe": "VF5",
+        "Biển số": "50H57390",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Châu Hồng Vũ (6087167)"
+    },
+    {
+        "STT": "335",
+        "Dòng xe": "VF5",
+        "Biển số": "50H53462",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Văn Quý (6087695)"
+    },
+    {
+        "STT": "336",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52648",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Huỳnh Thanh Hội (6087096)"
+    },
+    {
+        "STT": "337",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52603",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Dương Văn Hòa (6087093)"
+    },
+    {
+        "STT": "338",
+        "Dòng xe": "VF5",
+        "Biển số": "50H53068",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Vũ Văn Kiên (6072844)"
+    },
+    {
+        "STT": "339",
+        "Dòng xe": "VF5",
+        "Biển số": "50H53438",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Văn Lưa (6087655)"
+    },
+    {
+        "STT": "340",
+        "Dòng xe": "VF5",
+        "Biển số": "50H53431",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Khuất Duy Tuân (6087601)"
+    },
+    {
+        "STT": "341",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52629",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Phạm Thanh Sang (6087690)"
+    },
+    {
+        "STT": "342",
+        "Dòng xe": "VF5",
+        "Biển số": "50H53031",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Anh Khoa (6087108)"
+    },
+    {
+        "STT": "343",
+        "Dòng xe": "VF5",
+        "Biển số": "50H51721",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Văn Minh (6087628)"
+    },
+    {
+        "STT": "344",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52887",
+        "Tổ": "Q12.DOIXE07.03",
+        "Tài xế": "Nguyễn Thanh Liêm (6087705)"
+    },
+    {
+        "STT": "345",
+        "Dòng xe": "VF5",
+        "Biển số": "50H63156",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": ""
+    },
+    {
+        "STT": "346",
+        "Dòng xe": "VF5",
+        "Biển số": "50H57640",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": ""
+    },
+    {
+        "STT": "347",
+        "Dòng xe": "VF5",
+        "Biển số": "50H56592",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Lê Hữu Sự (6087140)"
+    },
+    {
+        "STT": "348",
+        "Dòng xe": "VF5",
+        "Biển số": "50H56191",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Dương Văn Thanh (6087158)"
+    },
+    {
+        "STT": "349",
+        "Dòng xe": "VF5",
+        "Biển số": "50H57120",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Phan Hữu Quốc (6087134)"
+    },
+    {
+        "STT": "350",
+        "Dòng xe": "VF5",
+        "Biển số": "50H57953",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Trương Quốc Hưng (6087335)"
+    },
+    {
+        "STT": "351",
+        "Dòng xe": "VF5",
+        "Biển số": "50H51902",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Huỳnh Minh Thông (6087654)"
+    },
+    {
+        "STT": "352",
+        "Dòng xe": "VF5",
+        "Biển số": "50H56770",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Bùi Viết Hà (6087081)"
+    },
+    {
+        "STT": "353",
+        "Dòng xe": "VF5",
+        "Biển số": "50H57653",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Nguyễn Hoàng Sơn (6087301)"
+    },
+    {
+        "STT": "354",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52024",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": ""
+    },
+    {
+        "STT": "355",
+        "Dòng xe": "VF5",
+        "Biển số": "50H51811",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Trần Hoàng Sang (6087862)"
+    },
+    {
+        "STT": "356",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H46404",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Lê Hữu Tài (6056234)"
+    },
+    {
+        "STT": "357",
+        "Dòng xe": "VF5",
+        "Biển số": "50H51723",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Đức Hào (6085689)"
+    },
+    {
+        "STT": "358",
+        "Dòng xe": "VF5",
+        "Biển số": "50H53235",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Trần Thái Thượng Tú (6087345)"
+    },
+    {
+        "STT": "359",
+        "Dòng xe": "VF5",
+        "Biển số": "50H46286",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": ""
+    },
+    {
+        "STT": "360",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H40675",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Hầu Nguyễn Trọng Quý (6053321)"
+    },
+    {
+        "STT": "361",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H41631",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Vòng Thế Phương (6074068)"
+    },
+    {
+        "STT": "362",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52292",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Nguyễn Đình Doanh (6087075)"
+    },
+    {
+        "STT": "363",
+        "Dòng xe": "VF5",
+        "Biển số": "50H52212",
+        "Tổ": "Q12.DOIXE07.02",
+        "Tài xế": "Trần Công Hậu (6087088)"
+    },
+    {
+        "STT": "364",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H47613",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": ""
+    },
+    {
+        "STT": "365",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H47479",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Võ Minh Tiên (6073746)"
+    },
+    {
+        "STT": "366",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H46293",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Nguyễn Sơn Hà (6055898)"
+    },
+    {
+        "STT": "367",
+        "Dòng xe": "VF5",
+        "Biển số": "50H47573",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Triệu Phú (6083024)"
+    },
+    {
+        "STT": "368",
+        "Dòng xe": "VF5",
+        "Biển số": "50H47580",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Trần Văn Thịnh (6055513)"
+    },
+    {
+        "STT": "369",
+        "Dòng xe": "VF5",
+        "Biển số": "50H46308",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Nguyễn Hoàng Đạt (6052277)"
+    },
+    {
+        "STT": "370",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H46893",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Phạm Thanh Trúc (6072979)"
+    },
+    {
+        "STT": "371",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H46457",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Lê Minh Triết (6056317)"
+    },
+    {
+        "STT": "372",
+        "Dòng xe": "VF5",
+        "Biển số": "50H46281",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Lâm Văn Quang (6083028)"
+    },
+    {
+        "STT": "373",
+        "Dòng xe": "VF8",
+        "Biển số": "50H40969",
+        "Tổ": "Q12.DOIXE07.05",
+        "Tài xế": ""
+    },
+    {
+        "STT": "374",
+        "Dòng xe": "VF8",
+        "Biển số": "50H41680",
+        "Tổ": "Q12.DOIXE07.05",
+        "Tài xế": ""
+    },
+    {
+        "STT": "375",
+        "Dòng xe": "VF5",
+        "Biển số": "50H37949",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Nguyễn Vĩnh An (6050660)"
+    },
+    {
+        "STT": "376",
+        "Dòng xe": "VF8",
+        "Biển số": "50H41647",
+        "Tổ": "Q12.DOIXE07.05",
+        "Tài xế": ""
+    },
+    {
+        "STT": "377",
+        "Dòng xe": "VF8",
+        "Biển số": "50H37522",
+        "Tổ": "Q12.DOIXE07.05",
+        "Tài xế": ""
+    },
+    {
+        "STT": "378",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H40359",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Lê Trung Dũng (6048731)"
+    },
+    {
+        "STT": "379",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H40755",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Ngô Thanh Triều (6043155)"
+    },
+    {
+        "STT": "380",
+        "Dòng xe": "VF8",
+        "Biển số": "50H38426",
+        "Tổ": "Q12.DOIXE07.05",
+        "Tài xế": ""
+    },
+    {
+        "STT": "381",
+        "Dòng xe": "VF8",
+        "Biển số": "50H38950",
+        "Tổ": "Q12.DOIXE07.05",
+        "Tài xế": ""
+    },
+    {
+        "STT": "382",
+        "Dòng xe": "VF8",
+        "Biển số": "50H37736",
+        "Tổ": "Q12.DOIXE07.05",
+        "Tài xế": ""
+    },
+    {
+        "STT": "383",
+        "Dòng xe": "VF8",
+        "Biển số": "50H38551",
+        "Tổ": "Q12.DOIXE07.05",
+        "Tài xế": ""
+    },
+    {
+        "STT": "384",
+        "Dòng xe": "VF8",
+        "Biển số": "50H37722",
+        "Tổ": "Q12.DOIXE07.05",
+        "Tài xế": ""
+    },
+    {
+        "STT": "385",
+        "Dòng xe": "VF8",
+        "Biển số": "50H38667",
+        "Tổ": "Q12.DOIXE07.05",
+        "Tài xế": ""
+    },
+    {
+        "STT": "386",
+        "Dòng xe": "VF8",
+        "Biển số": "50H37012",
+        "Tổ": "Q12.DOIXE07.05",
+        "Tài xế": ""
+    },
+    {
+        "STT": "387",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H32715",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Huỳnh Văn Thi (6034404)"
+    },
+    {
+        "STT": "388",
+        "Dòng xe": "VF8",
+        "Biển số": "50H38583",
+        "Tổ": "Q12.DOIXE07.05",
+        "Tài xế": ""
+    },
+    {
+        "STT": "389",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H32916",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Đoàn Thế Thanh (6050937)"
+    },
+    {
+        "STT": "390",
+        "Dòng xe": "VF8",
+        "Biển số": "50H32662",
+        "Tổ": "Q12.DOIXE07.05",
+        "Tài xế": ""
+    },
+    {
+        "STT": "391",
+        "Dòng xe": "VF8",
+        "Biển số": "50H32746",
+        "Tổ": "Q12.DOIXE07.05",
+        "Tài xế": ""
+    },
+    {
+        "STT": "392",
+        "Dòng xe": "VF8",
+        "Biển số": "50H32523",
+        "Tổ": "Q12.DOIXE07.05",
+        "Tài xế": ""
+    },
+    {
+        "STT": "393",
+        "Dòng xe": "VF8",
+        "Biển số": "50H31743",
+        "Tổ": "Q12.DOIXE07.05",
+        "Tài xế": ""
+    },
+    {
+        "STT": "394",
+        "Dòng xe": "VF8",
+        "Biển số": "50H32260",
+        "Tổ": "Q12.DOIXE07.05",
+        "Tài xế": ""
+    },
+    {
+        "STT": "395",
+        "Dòng xe": "VF8",
+        "Biển số": "50H31854",
+        "Tổ": "Q12.DOIXE07.05",
+        "Tài xế": ""
+    },
+    {
+        "STT": "396",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H32060",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Trần Quốc Hùng (6055303)"
+    },
+    {
+        "STT": "397",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H32967",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Lê Hoàng Phúc (6083025)"
+    },
+    {
+        "STT": "398",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H32660",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Lâm Văn Thanh (6059683)"
+    },
+    {
+        "STT": "399",
+        "Dòng xe": "VF8",
+        "Biển số": "50E13367",
+        "Tổ": "Q12.DOIXE07.05",
+        "Tài xế": ""
+    },
+    {
+        "STT": "400",
+        "Dòng xe": "VF8",
+        "Biển số": "50E13467",
+        "Tổ": "Q12.DOIXE07.05",
+        "Tài xế": ""
+    },
+    {
+        "STT": "401",
+        "Dòng xe": "VF5",
+        "Biển số": "50H27924",
+        "Tổ": "Q12.DOIXE07.01",
+        "Tài xế": "Nguyễn Hữu Thành (6088146)"
+    },
+    {
+        "STT": "402",
+        "Dòng xe": "VF5",
+        "Biển số": "50E09433",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": ""
+    },
+    {
+        "STT": "403",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H32032",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Tô Phạm Hoàng Minh (6027730)"
+    },
+    {
+        "STT": "404",
+        "Dòng xe": "VFE34",
+        "Biển số": "50H31741",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Nguyễn Văn Cường (6022059)"
+    },
+    {
+        "STT": "405",
+        "Dòng xe": "VFE34",
+        "Biển số": "50E11449",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": "Nguyễn Trung Trực (6002051)"
+    },
+    {
+        "STT": "406",
+        "Dòng xe": "VFE34",
+        "Biển số": "50E12161",
+        "Tổ": "Q12.DOIXE07.04",
+        "Tài xế": ""
+    },
+    {
+        "STT": "407",
+        "Dòng xe": "VF8",
+        "Biển số": "50E07135",
+        "Tổ": "Q12.DOIXE07.05",
+        "Tài xế": ""
+    },
+    {
+        "STT": "408",
+        "Dòng xe": "VF8",
+        "Biển số": "50E13146",
+        "Tổ": "Q12.DOIXE07.05",
+        "Tài xế": ""
+    },
+    {
+        "STT": "409",
+        "Dòng xe": "VF8",
+        "Biển số": "50E13351",
+        "Tổ": "Q12.DOIXE07.05",
+        "Tài xế": ""
+    },
+    {
+        "STT": "410",
+        "Dòng xe": "VF8",
+        "Biển số": "50E12678",
+        "Tổ": "Q12.DOIXE07.05",
+        "Tài xế": ""
+    },
+    {
+        "STT": "411",
+        "Dòng xe": "VF8",
+        "Biển số": "50E13504",
+        "Tổ": "Q12.DOIXE07.05",
+        "Tài xế": ""
+    },
+    {
+        "STT": "412",
+        "Dòng xe": "VF8",
+        "Biển số": "50E11757",
+        "Tổ": "Q12.DOIXE07.05",
+        "Tài xế": ""
+    },
+    {
+        "STT": "413",
+        "Dòng xe": "VF8",
+        "Biển số": "50E13482",
+        "Tổ": "Q12.DOIXE07.05",
+        "Tài xế": ""
+    },
+    {
+        "STT": "414",
+        "Dòng xe": "VF8",
+        "Biển số": "50E13232",
+        "Tổ": "Q12.DOIXE07.05",
+        "Tài xế": ""
+    },
+    {
+        "STT": "415",
+        "Dòng xe": "VF8",
+        "Biển số": "50E11929",
+        "Tổ": "Q12.DOIXE07.05",
+        "Tài xế": ""
+    },
+    {
+        "STT": "416",
+        "Dòng xe": "VF8",
+        "Biển số": "50E13331",
+        "Tổ": "Q12.DOIXE07.05",
+        "Tài xế": ""
+    },
+    {
+        "STT": "417",
+        "Dòng xe": "VF8",
+        "Biển số": "50E13154",
+        "Tổ": "Q12.DOIXE07.05",
+        "Tài xế": ""
+    }
 ]
-}
